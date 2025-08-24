@@ -1,0 +1,5 @@
+t1=('A','D','H','R','I','T')
+print(t1)
+print(t1[3])
+print(t1[-1])
+print(t1[2:5])
